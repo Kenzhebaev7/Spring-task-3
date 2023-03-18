@@ -1,0 +1,18 @@
+.main {
+    background-color: rgb(198, 204, 216);
+    font-style: Arial;
+}
+.block {
+    background-color: white;
+    border-radius: 25px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-style: Aria;
+}
+.output-text-kzt, .output-text-usd, .output-text-eur {
+    min-width: 180px;
+    background-color:rgb(198, 204, 216);
+    border-radius: 5px;
+}
